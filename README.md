@@ -1,6 +1,6 @@
 ### Hi, My name is Yerim 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yerimoh323/)](https://www.linkedin.com/in/yerimoh323/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:yerim23oh@gmail.com)](mailto:yerim23oh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yerimoh323/)](https://www.linkedin.com/in/yerimoh323/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yerim23oh@gmail.com)](mailto:yerim23oh@gmail.com)
 
 ### Career Objectives
 Detail-oriented Statistics major (expected May 2025) with hands-on experience in data modeling, research, and statistical analysis.
