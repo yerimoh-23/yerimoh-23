@@ -25,5 +25,3 @@ Seeking an entry-level role in data analysis to leverage technical and analytica
 ![MySQL](https://img.shields.io/badge/-MySQL-f29111?&logo=MySQL&logoColor=00758f)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
-
-#![Yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh-23&show_icons=true&theme=radical)
