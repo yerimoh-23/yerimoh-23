@@ -8,9 +8,6 @@ Proficient in statistical software, including R, Python, and Excel, with proven 
 Committed to applying statistical knowledge to real-world problems and contributing to data-driven solutions.
 Seeking an entry-level role in data analysis to leverage technical and analytical skills and support the success of a dynamic team.
 
-### Resume
-![Resume](https://img.shields.io/badge/-Resume-d14836?style=flat-round&link=https://github.com/yerimoh-23/yerimoh-23/blob/main/Yerim%20Oh_Resume.pdf)
-
 ### Data Analysis & Modeling
 - Regression
 - Survey Sampling
@@ -28,3 +25,5 @@ Seeking an entry-level role in data analysis to leverage technical and analytica
 ![MySQL](https://img.shields.io/badge/-MySQL-f29111?&logo=MySQL&logoColor=00758f)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
+
+![Yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh-23&show_icons=true&theme=radical)
