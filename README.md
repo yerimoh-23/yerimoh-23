@@ -26,4 +26,4 @@ Seeking an entry-level role in data analysis to leverage technical and analytica
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
 
-<a href="https://github.com/yerimoh-23"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/username=yerimoh-23&layout=compact&theme=nord&hide_border=true" /></a> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerimoh-23&layout=compact&theme=dracula)
