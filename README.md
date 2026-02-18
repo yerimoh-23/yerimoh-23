@@ -32,5 +32,3 @@ My work centers on transforming unstable or ambiguous processes into measurable 
 ![Java](https://img.shields.io/badge/-Java-323330?&logo=Java&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yerimoh-23&layout=compact&theme=transparent)
